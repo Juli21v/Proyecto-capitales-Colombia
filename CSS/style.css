@@ -1,0 +1,15 @@
+body {
+    background-image: url(../imagenes/mapaC.jpg);
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+button {
+    position: fixed;
+    left: 625px;
+    color: red;
+}
+button :hover{
+    color: blue;
+}
